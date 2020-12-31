@@ -22,8 +22,6 @@ creates the subdirectory "2020" and inside the subdirectory a new directory name
 **Supported systems:**
 
 - Linux amd64/arm64
-- Windows amd64
-- macOS amd64
 
 **License:**
 
